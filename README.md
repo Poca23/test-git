@@ -16,3 +16,5 @@ Ref : https://github.com/renaudberthier/cda-27-2-github
 Pour vérifier, utilisez la commande suivante :
 git log --graph
 "
+
+Modification du fichier README.md
